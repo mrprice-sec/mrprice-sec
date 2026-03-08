@@ -23,7 +23,6 @@ $ cat /etc/profile.d/mrcipherx.sh
 
 NAME="Mr. Price"
 ALIAS="MrCipherX"
-LOCATION="Nigeria"
 ROLE="Penetration Tester"
 SPECIALTIES=("Web App Pentesting" "Social Engineering")
 STATUS="Actively hunting bugs on HackerOne & Bugcrowd"
