@@ -19,10 +19,11 @@
 ---
 
 ```bash
-$ cat /etc/profile.d/mrcipherx.sh
+$ cat /etc/profile.d/mprice-sec.sh
 
 NAME="Mr. Price"
 ALIAS="mprice-sec"
+LOCATION="United States"
 ROLE="Penetration Tester"
 SPECIALTIES=("Web App Pentesting" "Social Engineering")
 STATUS="Actively hunting bugs on HackerOne & Bugcrowd"
@@ -82,6 +83,6 @@ LEARNING="Bug Bounty | OSINT | Advanced Web Vulns"
 [ This terminal session is encrypted. You are being watched. Just kidding... or am I? ]
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=mrcipherx&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=mprice-sec&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
