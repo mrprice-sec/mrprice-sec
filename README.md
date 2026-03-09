@@ -22,7 +22,7 @@
 $ cat /etc/profile.d/mprice-sec.sh
 
 NAME="Mr. Price"
-ALIAS="mprice-sec"
+ALIAS="mrprice-sec"
 LOCATION="United States"
 ROLE="Penetration Tester"
 SPECIALTIES=("Web App Pentesting" "Social Engineering")
